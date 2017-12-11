@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>XamarinClearCookies</id>
+    <version>1.0.0</version>
+    <authors>doniald</authors>
+    <owners>doniald</owners>
+    <licenseUrl>https://github.com/officialdoniald/XamarinClearCookies</licenseUrl>
+    <projectUrl>https://github.com/officialdoniald/XamarinClearCookies</projectUrl>
+    <iconUrl>https://github.com/officialdoniald/XamarinClearCookies/Picture/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>With this Package you can clear all applicaion's cookies. So if you are already logged in with your social media account you can simply log out with this. </description>
+    <releaseNotes>First version.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>xamarin xamarinforms cookie cookies clearcookies nethttp web</tags>
+  </metadata>
+  <files>
+    <file 
+      src="C:\Users\official_doniald\source\repos\XamarinClearCookies\XamarinClearCookies\XamarinClearCookies\IClearCookies\IClearCookies.cs" 
+      target="content\IClearCookies\IClearCookies.cs"/>
+    <file 
+      src="C:\Users\official_doniald\source\repos\XamarinClearCookies\XamarinClearCookies\XamarinClearCookies.iOS\ClearCookies\ClearCookies.cs" 
+      target="content\iOS\ClearCookies\ClearCookies.cs"/>
+    <file 
+      src="C:\Users\official_doniald\source\repos\XamarinClearCookies\XamarinClearCookies\XamarinClearCookies.Android\ClearCookies\ClearCookies.cs" 
+      target="content\Droid\ClearCookies\ClearCookies.cs"/>
+  </files>
+</package>
